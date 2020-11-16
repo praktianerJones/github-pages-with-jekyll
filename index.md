@@ -1,3 +1,3 @@
-# Welcome to my blog
+#This is a new Age
 
-I'm glad you are here. I plan to talk about ...
+The Age of blogs is over. 
